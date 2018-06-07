@@ -1,1 +1,1 @@
-# node-opskins-trade-wrapper
+# node-opskins-trade
