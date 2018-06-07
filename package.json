@@ -1,0 +1,26 @@
+{
+  "name": "api-opskins-trade",
+  "version": "1.0.0",
+  "description": "Opskins api trade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stuffa1991/node-opskins-trade-wrapper.git"
+  },
+  "keywords": [
+    "opskins",
+    "p2p",
+    "trading",
+    "trade",
+    "opskins"
+  ],
+  "author": "Stuffa1991",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stuffa1991/node-opskins-trade-wrapper/issues"
+  },
+  "homepage": "https://github.com/Stuffa1991/node-opskins-trade-wrapper#readme"
+}
