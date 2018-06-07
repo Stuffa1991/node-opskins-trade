@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stuffa1991/node-opskins-trade-wrapper.git"
+    "url": "git+https://github.com/Stuffa1991/node-opskins-trade.git"
   },
   "keywords": [
     "opskins",
@@ -20,9 +20,9 @@
   "author": "Stuffa1991",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Stuffa1991/node-opskins-trade-wrapper/issues"
+    "url": "https://github.com/Stuffa1991/node-opskins-trade/issues"
   },
-  "homepage": "https://github.com/Stuffa1991/node-opskins-trade-wrapper#readme",
+  "homepage": "https://github.com/Stuffa1991/node-opskins-trade#readme",
   "dependencies": {
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
