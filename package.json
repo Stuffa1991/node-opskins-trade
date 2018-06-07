@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Stuffa1991/node-opskins-trade-wrapper/issues"
   },
-  "homepage": "https://github.com/Stuffa1991/node-opskins-trade-wrapper#readme"
+  "homepage": "https://github.com/Stuffa1991/node-opskins-trade-wrapper#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
 }
